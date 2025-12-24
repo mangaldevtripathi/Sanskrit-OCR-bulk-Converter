@@ -2,9 +2,8 @@
 # Sanskrit-OCR-bulk-Converter
 This Python script is used to convert large PDF documents into text online, processing them page by page.
 =======
-Installation Guide (By Mangal)
-# This programm sent by Vipul Chhabra (IIIT student & Microsoft engineer)
-!Date 20/04/2024 (Mailed by Vipul)
+Installation Guide
+!Date 20/04/2024
 Download or go to the "ImageUpload" folder 
 Install : - 
 		pip3 install selenium
